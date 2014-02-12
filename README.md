@@ -1,5 +1,5 @@
 obsessiveCompulsiveDisorder
 ===========================
-A decision test for ocd patient.
+A decision test for ocd patient. See Iowa gabling test.
 
-main file: OCD.m
+main file: IGT.m
